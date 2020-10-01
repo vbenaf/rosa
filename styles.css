@@ -134,7 +134,7 @@ header{
 .hero{
     width:100%;
     height:100vh;
-    background: url("images/hero.jpg") center no-repeat;
+    background: url("hero.jpg") center no-repeat;
     background-attachment: fixed;
     background-size: cover;
     display:flex;
@@ -305,7 +305,7 @@ header{
 /* TASTEFUL RECIPES */
 
 .tasteful-recipes{
-    background:url("images/tasteful-recipes.jpg") center no-repeat;
+    background:url("tasteful-recipes.jpg") center no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -330,7 +330,7 @@ header{
 
 /*  PERFECT BLEND */
 .perfect-blend{
-    background:url("images/perfect-blend.jpg") center no-repeat;
+    background:url("perfect-blend.jpg") center no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
